@@ -1,0 +1,25 @@
+{
+  "name": "Part1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "e2e": "C:/Users/2LEM/Downloads/cypress/Cypress/cypress open",
+    "start": "parcel index.html",
+    "unit": "jest \"test/.*\\.test\\.js\""
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^17.0.2",
+    "react-dom": "^17.0.2",
+    "reat": "^0.0.1-security"
+  },
+  "devDependencies": {
+    "enzyme": "^3.11.0",
+    "enzyme-adapter-react-16": "^1.15.6",
+    "jest": "^26.6.3",
+    "parcel-bundler": "^1.12.5"
+  }
+}
